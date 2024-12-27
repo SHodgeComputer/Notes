@@ -1,0 +1,12 @@
+# Advantages
+** Nice way to upgrade wiht a logical copy of data.
+
+** Defragments storage
+
+** Re-org tablespaces possible, especially one with lots of partitions and subpartitions constrained by Oracle 10g rules
+
+** Good time to think about data retention, archive.
+
+# Disadvantages
+
+** Takes some time, though even with SSD storage
