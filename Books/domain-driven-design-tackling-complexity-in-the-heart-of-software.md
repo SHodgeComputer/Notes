@@ -17,5 +17,7 @@
 * p. 39 "A document must be involved in project activities"
 
 * p. 39 "As the document model comes to reflect the most relevant knowledge of the business, application requirements become scenarios with that model, and the UBIQUITOUS LANGUAGE can be used to describe such a scenario in terms that directly connect to the MODEL-DRIVEN DESIGN (see Chapter 3). As a reuls, specifications can be written more siple, becaus they do not have to convery the business knowledge that lies behind the model."
-*  
-  
+
+# Model Driven Design
+
+*[ Problems with the Analysis Model 47-49, so whenever I see the object-oriented model I think of dimensional models and SQL.]
